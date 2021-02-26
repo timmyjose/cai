@@ -91,7 +91,7 @@ Practise the following till it becomes second nature.
 
 ### Strategy
 
-  * Mainatain progress in the cai_progress file.
+  * Maintain progress in the cai_progress file.
 
   * Set a maximum of 25 minutes per problems - 5 minutes to understand the problem, and 20 minutes to solve it on paper.
 
@@ -101,4 +101,4 @@ Practise the following till it becomes second nature.
 
   * Code the solution.
 
-  * Revisit the question next week.
+  * Revisit the question the following week.
